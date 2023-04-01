@@ -1,0 +1,13 @@
+.post {
+    padding-bottom: 30px;
+}
+
+.postDate {
+    font-style: italic;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.postContent {
+    line-height: 160%;
+}
