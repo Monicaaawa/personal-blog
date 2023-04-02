@@ -1,0 +1,14 @@
+.blogContent {
+    padding: 96px;
+    line-height: 200%;
+}
+
+.blogTitle {
+    font-size: 40px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+img {
+    width: 60%;
+}

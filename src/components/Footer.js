@@ -8,7 +8,7 @@ import Link from '@mui/material/Link';
 
 function Copyright() {
   return (
-    <Typography variant="body2" color="text.secondary" align="center">
+    <Typography variant="body2" color="text.secondary" align="center" style={{fontFamily: 'Baskervville'}}>
       {'Copyright © '}
       <Link color="inherit" href="https://monicaaawa.github.io/">
         Shiyu Ye
@@ -44,6 +44,7 @@ function Footer(props) {
           align="center"
           color="text.secondary"
           component="p"
+          style={{fontFamily: 'Baskervville', fontSize: '16px'}}
         >
           {description}
         </Typography>

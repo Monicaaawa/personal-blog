@@ -179,12 +179,13 @@ import * as React from "react";
 import "../styles/globals.css";
 import BlogPost from "../components/BlogPost";
 import Footer from "../components/Footer";
+import Container from '@mui/material/Container';
 import InstagramIcon from '@mui/icons-material/Instagram';
 import GitHubIcon from '@mui/icons-material/GitHub';
 import WebIcon from '@mui/icons-material/Web';
 
 const posts = [
-  { name: 'My first blog', date: 'Apr 1, 2023', link:'/my-first-blog-post', content:'Content of my first blog.' },
+  { name: 'To Ithaka', date: 'Apr 1, 2023', link:'/to-ithaka', language: 'English', content:'My first blog, and why I started writing it.' },
 ];
 
 const social = [
@@ -195,16 +196,19 @@ const social = [
 
 const IndexPage = () => {
   return (
-    <div className="content">
-      <div className="title">Story of My Life</div>
-      <div className="blogPosts">
-        {posts.map((post) => (<BlogPost title={post.name} date={post.date} link={post.link} content={post.content}/>))}
+    <Container maxWidth="lg">
+      <div className="content">
+        <div className="webTitle">Story of My Life</div>
+        Created by <a href="https://monicaaawa.github.io">Shiyu Ye</a>
+        <div className="blogPosts">
+          {posts.map((post) => (<BlogPost title={post.name} date={post.date} link={post.link} language={post.language} content={post.content}/>))}
+        </div>
+        <Footer
+          description="“Je m'ouvrais pour la première fois à la tendre indifférence du monde.” - Albert Camus"
+          social={social}
+        />
       </div>
-      <Footer
-        description="“Je m'ouvrais pour la première fois à la tendre indifférence du monde.” ― Albert Camus"
-        social={social}
-      />
-    </div>
+    </Container>
   )
 }
 
