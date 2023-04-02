@@ -9,11 +9,12 @@ hope your road is a long one,<br>
 full of adventure, full of discovery." - Ithaka by C.P. Cavafy*
 <br/><br/>
 
-When you first see the title of this blog, you may be puzzled: why would I go to Ithaka? I was born and raised in Shanghai, attend university in Los Angeles, and have no friends or family ties to Ithaka whatsoever. But you're absolutely right - I'm not actually going to Ithaka. The truth is, this title was merely an idea suggested by the deareast friend and the greatest lifesaver for us college students, ChatGPT:
-<br/><br/>
-![How I asked ChatGPT for a title for my first blog](../images/GPT.png)
+When you first see the title of this blog, you may be puzzled: why would I go to Ithaka? I was born and raised in Shanghai, attend university in Los Angeles, and have no friends or family ties to Ithaka whatsoever. But you're absolutely right - I'm not actually going to Ithaka. The truth is, this title was merely an idea suggested by the deareast friend and the greatest lifesaver for us college students, ChatGPT.
+<!-- <br/><br/>
+![How I asked ChatGPT for a title for my first blog](../images/GPT.png) -->
 <br/>
-This _[Ithaka](https://www.poetryfoundation.org/poems/51296/ithaka-56d22eef917ec)_ by C.P. Cavafy was among the many poems that the AI language model offered for me to consider. I chose it because you see, I've never written a blog before; I have tried to keep a diary or journal a couple of times in the past, though unfortunately, my enthusiasm for these endeavors never lasted beyond a few months. But I know this time is different- _Nah._ I know this blog thing is no more than another sudden impulse of mine and probably won't survive more than one quarter. **But who cares?** I hope the road is a long one, but doesn't matter if it's not. I'm taking the first step and having fun, and that's enough.
+
+This [Ithaka](https://www.poetryfoundation.org/poems/51296/ithaka-56d22eef917ec) by C.P. Cavafy was among the many poems that the AI language model offered for me to consider. I chose it because you see, I've never written a blog before; I have tried to keep a diary or journal a couple of times in the past, though unfortunately, my enthusiasm for these endeavors never lasted beyond a few months. But I know this time is different- _Nah._ I know this blog thing is no more than another sudden impulse of mine and probably won't survive more than one quarter. **But who cares?** I hope the road is a long one, but doesn't matter if it's not. I'm taking the first step and having fun, and that's enough.
 <br/><br/>
 That being said, there ARE some solid motivation behind this site.<br/>
 &nbsp;1. I've got some time to kill before spring quarter starts (OK this one is not that solid).<br/>
@@ -22,5 +23,5 @@ That being said, there ARE some solid motivation behind this site.<br/>
 &nbsp;4. My ability to express complex ideas has dropped considerably ever since I came to the US, regardless of the language I am using. That's why I feel the need to push myself to write something.
 <br/><br/>
 So sit back, relax, and join me on a different kind of journey—one without a clear destination but with the potential for exciting discoveries (so cliché). That's all for this blog, folks!
-<br/><br/>
-<img src="../images/bocchi.jpg" alt="Bocchi says she's going home" style="width:10px">
+<!-- <br/><br/>
+<img src="../images/bocchi.jpg" alt="Bocchi says she's going home" style="width:10px"> -->
