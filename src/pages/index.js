@@ -186,6 +186,7 @@ import WebIcon from '@mui/icons-material/Web';
 
 const posts = [
   { name: 'To Ithaka', date: 'Apr 1, 2023', link:'/to-ithaka', language: 'English', content:'My first blog, and why I started writing it.' },
+  { name: 'Harakiri', date: 'Apr 6, 2023', link:'/harakiri', language: 'English', content:'My final paper for JAPAN 70: Images of Japan: Literature and Film, taken in winter 2023.' },
 ];
 
 const social = [
@@ -201,7 +202,7 @@ const IndexPage = () => {
         <div className="webTitle">Story of My Life</div>
         Created by <a href="https://monicaaawa.github.io">Shiyu Ye</a>
         <div className="blogPosts">
-          {posts.map((post) => (<BlogPost title={post.name} date={post.date} link={post.link} language={post.language} content={post.content}/>))}
+          {posts.map((post) => (<BlogPost title={post.name} date={post.date} link={post.link} language={post.language} content={post.content}/>)).reverse()}
         </div>
         <Footer
           description="“Je m'ouvrais pour la première fois à la tendre indifférence du monde.” - Albert Camus"
